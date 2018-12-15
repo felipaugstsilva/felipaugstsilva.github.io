@@ -1,0 +1,110 @@
+
+
+/*CLASSIFICADOS ESCRITA */
+
+
+
+.firstext { 
+	padding: 0px;
+	background-color: #E5E4E4;
+ width: 1150px;
+ height: 180px;
+ margin-left: 83px;
+
+
+ }
+ .news { 
+	font-size: 65px;
+	text-align: center;
+	color: #0B0A0A;
+	font:'Raleway', sans-serif;
+color:rgba(0,0,0,.5);
+text-align: center;
+text-transform: uppercase;
+letter-spacing: .5em;
+}	
+
+
+/*
+          BODY CONTAINER 
+*/
+.mybody { 
+display:flex; 
+background-color: #E5E4E4;
+ width: 1150px;
+ height: 700px;
+ margin-left: 83px;}
+
+
+
+/*
+        CONTAINERS INSIDE BODY */
+
+
+
+.insideContainer1 { 
+	padding-left: 15%;
+   display: flex;
+	background-color: #ffffff;
+	width: 575px;
+ height:670px;
+ margin-top: 10px;
+ margin-left: 15px;
+ }
+
+/*
+         TEXT INSIDE THE CONTAINER */
+
+.textone{ 
+padding: 10px; 
+list-style: none;}
+
+ .firstList { 
+ 
+ list-style: sidama; 
+font-family: sans-serif;
+margin-left: -10px;
+letter-spacing: 1px;}
+
+.secondList { 
+	list-style: sidama; 
+font-family: sans-serif;
+margin-left: 
+letter-spacing: 1px;
+ }
+
+.containerthree { padding-left: 15%;
+  
+	background-color: #ffffff;
+	width: 185px;
+ height:670px;
+ margin-top: 10px;
+ margin-left: 15px;
+ }
+
+/*
+ULTIMA PARTE */
+
+.sobrenos { 
+	font-size: 10px;
+	text-align: center;
+	color: #0B0A0A;
+color: black;
+text-align: left;
+text-transform: uppercase;
+list-style: none;
+
+
+
+
+}
+
+ .legs{ background-color: #E5E4E4;
+ width: 1150px;
+ height: 140px;
+ margin-left: 83px;
+
+ }
+
+
+ 
